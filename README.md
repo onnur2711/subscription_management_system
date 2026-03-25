@@ -1,12 +1,12 @@
-# 📊 Subscription Management System (MySQL)
+#  Subscription Management System (MySQL)
 
-## 📌 Overview
+##  Overview
 
 This project is a MySQL-based Subscription Management System designed to manage and analyze user subscriptions such as OTT platforms, music services, and fitness memberships. It demonstrates real-world database design, normalization, and analytical SQL queries.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Manage user subscriptions and plans
 * Track payments and billing cycles
@@ -18,7 +18,7 @@ This project is a MySQL-based Subscription Management System designed to manage 
 
 ---
 
-## 🧱 Database Design
+##  Database Design
 
 ### Tables:
 
@@ -32,7 +32,7 @@ This project is a MySQL-based Subscription Management System designed to manage 
 
 ---
 
-## 🔗 Relationships
+##  Relationships
 
 * One user → many subscriptions
 * One category → many subscriptions
@@ -42,7 +42,7 @@ This project is a MySQL-based Subscription Management System designed to manage 
 
 ---
 
-## 📊 Key SQL Queries
+##  Key SQL Queries
 
 * Total spending per user
 * Category-wise spending
@@ -53,14 +53,14 @@ This project is a MySQL-based Subscription Management System designed to manage 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * MySQL
 * SQL (Joins, Aggregations, Constraints)
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Run `01_schema.sql` to create tables
 2. Run `02_seed_data.sql` to insert data
@@ -68,7 +68,7 @@ This project is a MySQL-based Subscription Management System designed to manage 
 
 ---
 
-## 📈 Key Learnings
+##  Key Learnings
 
 * Database normalization
 * Designing relational schemas
@@ -77,6 +77,3 @@ This project is a MySQL-based Subscription Management System designed to manage 
 
 ---
 
-## 💼 Resume Highlight
-
-Designed and implemented a MySQL-based Subscription Management System with normalized schema, relational mapping, and analytical queries to track recurring expenses and subscription insights.
